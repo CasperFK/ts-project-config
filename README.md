@@ -1,0 +1,1 @@
+"# TypeScript Prject's Config" 
