@@ -71,7 +71,7 @@ module.exports = {
                 use: [
                     {
                         loader: 'html-loader',
-                        options: { minimize: !isDevelopment }
+                        options: { minimize: true }
                     }
                 ]
             }
